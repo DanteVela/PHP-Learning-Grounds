@@ -59,7 +59,7 @@ print_r($numbers);
 
 echo "<hr>";
 $newNumbers = array_map(function($number) {
-    return "Number: ${number}";
+    return "Number: {$number}";
 }, $numbers);
 print_r($newNumbers);
 
