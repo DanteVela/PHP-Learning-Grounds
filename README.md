@@ -91,6 +91,12 @@ Helpful links that you can use with your project:
 "Give Credit where its Due": Credit goes to all the original repo owners, contributors, and author into making this project.
 (If possible, please provide the GitHub URLs and names to all that contributed including the project owner)
 
+- "PHP Full Course for Non-Haters" video by Bro Code (YouTube)
+- "PHP FullCourse" by kevynhb (Bro Code YT)
+- "PHP" by Pra-nav72 (Bro Code YT)
+- "PHP Basics" by JLB-101
+- "PHP_For_Beginner" by structlooper
+
 ## Licensing
 
 ![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)
