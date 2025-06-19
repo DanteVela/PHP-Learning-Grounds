@@ -23,7 +23,7 @@ Start coding PHP with/without HTML
 You can right-click the code and use the following: [PHP Server: Live, Reload, Stop]
 ```
 
-Congrats! You just created your first PHP "Hello World" file and there's so much more you can do with just PHP so experiement to your hearts content!
+Congrats! You just created your first PHP "Hello World" file and there's so much more you can do with just PHP so experiment to your hearts content!
 
 ### Initial Configuration
 
